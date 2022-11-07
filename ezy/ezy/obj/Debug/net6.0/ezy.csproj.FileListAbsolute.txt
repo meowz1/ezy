@@ -1,0 +1,15 @@
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.csproj.AssemblyReference.cache
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.AssemblyInfoInputs.cache
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.AssemblyInfo.cs
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.csproj.CoreCompileInputs.cache
+C:\Users\dragg\source\repos\ezy\ezy\bin\Debug\net6.0\ezy.exe
+C:\Users\dragg\source\repos\ezy\ezy\bin\Debug\net6.0\ezy.deps.json
+C:\Users\dragg\source\repos\ezy\ezy\bin\Debug\net6.0\ezy.runtimeconfig.json
+C:\Users\dragg\source\repos\ezy\ezy\bin\Debug\net6.0\ezy.dll
+C:\Users\dragg\source\repos\ezy\ezy\bin\Debug\net6.0\ezy.pdb
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.dll
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\refint\ezy.dll
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.pdb
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ezy.genruntimeconfig.cache
+C:\Users\dragg\source\repos\ezy\ezy\obj\Debug\net6.0\ref\ezy.dll
